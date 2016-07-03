@@ -1,0 +1,16 @@
+(module c_0603_Handsoldering (layer F.Cu)
+  (descr "SMT capacitor, 0603")
+  (fp_text reference c_0603 (at 0 -0.635) (layer F.SilkS)
+    (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
+  )
+  (fp_text value C*** (at 0 0.635) (layer F.SilkS) hide
+    (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
+  )
+  (pad 1 smd rect (at 0.75184 0) (size 1.2 1) (drill (offset 0.1 0)) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -0.75184 0) (size 1.2 1.00076) (drill (offset -0.1 0)) (layers F.Cu F.Paste F.Mask))
+  (model smd/capacitors/c_0603.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

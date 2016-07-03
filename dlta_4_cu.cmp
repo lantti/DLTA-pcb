@@ -1,0 +1,374 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-04 BZR 5351)-product   date = Wed 11 Mar 2015 12:30:31 AM CET
+
+BeginCmp
+TimeStamp = /53AC087C;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A10;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A0D;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A28;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A24;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A0C;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AC0561;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AC054B;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A0F;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ACCB06;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB5D20;
+Reference = C11;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A22;
+Reference = C12;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A0A;
+Reference = C13;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A1C;
+Reference = C14;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A20;
+Reference = C15;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A06;
+Reference = C16;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB09FB;
+Reference = C17;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB5D81;
+Reference = C18;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB5DA5;
+Reference = C19;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AE1A32;
+Reference = C20;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A2A;
+Reference = C21;
+ValeurCmp = C;
+IdModule  = Resistors_SMD:Resistor_SMD1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A38;
+Reference = C22;
+ValeurCmp = C;
+IdModule  = dlta:c_0603_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0AE9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0AF2;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0ADE;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0AE6;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0AE3;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0AE8;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BA1DA1;
+Reference = D7;
+ValeurCmp = REVERSE_BLOCKING_DIODE;
+IdModule  = Resistors_SMD:Resistor_SMD1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B06B6B;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B063CD;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB19CA;
+Reference = P1;
+ValeurCmp = HDMI;
+IdModule  = dlta:HDMI_A_RECEPTACLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB1926;
+Reference = P2;
+ValeurCmp = JTAG;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BA187F;
+Reference = P3;
+ValeurCmp = POWER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB09A0;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = dlta:SOT23_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB09A7;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = dlta:SOT23_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB09AA;
+Reference = Q3;
+ValeurCmp = MOSFET_N;
+IdModule  = dlta:SOT23_bigger_pads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A9D;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B17;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A98;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0A8F;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B12;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B26;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B23;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B21;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0B1F;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = dlta:Resistor_SMD0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AC00C9;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = dlta:FSMSM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB017F;
+Reference = U1;
+ValeurCmp = XC3S50A/VQ100;
+IdModule  = dlta:VQFP100_long_pads_mm_pitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB0461;
+Reference = U2;
+ValeurCmp = M25P;
+IdModule  = dlta:SO8W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B94FA3;
+Reference = U3;
+ValeurCmp = MCP1801_SOT23-5;
+IdModule  = dlta:SOT23-5_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B94EC0;
+Reference = U4;
+ValeurCmp = ZLDO1117_SOT223;
+IdModule  = dlta:SOT223_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B94EAC;
+Reference = U5;
+ValeurCmp = ZLDO1117_SOT223;
+IdModule  = dlta:SOT223_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AB2BE2;
+Reference = X1;
+ValeurCmp = OSCILLATOR;
+IdModule  = dlta:5mmx7mm_OSC;
+EndCmp
+
+EndListe
